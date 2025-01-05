@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352579773443798801/b3153fd63c9b437aabea1f09d537757d/artifacts
+end_time: 1736103390655
+entry_point_name: ''
+experiment_id: '352579773443798801'
+lifecycle_stage: active
+run_id: b3153fd63c9b437aabea1f09d537757d
+run_name: rumbling-panda-194
+run_uuid: b3153fd63c9b437aabea1f09d537757d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736103388089
+status: 3
+tags: []
+user_id: hritwij2

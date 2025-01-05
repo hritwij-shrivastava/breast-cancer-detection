@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352579773443798801/c29f5a49e6dd477486e9e6181461e168/artifacts
+end_time: 1736103388054
+entry_point_name: ''
+experiment_id: '352579773443798801'
+lifecycle_stage: active
+run_id: c29f5a49e6dd477486e9e6181461e168
+run_name: intrigued-conch-54
+run_uuid: c29f5a49e6dd477486e9e6181461e168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736103387918
+status: 3
+tags: []
+user_id: hritwij2

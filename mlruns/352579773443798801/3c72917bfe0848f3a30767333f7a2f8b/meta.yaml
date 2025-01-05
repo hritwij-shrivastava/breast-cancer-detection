@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/352579773443798801/3c72917bfe0848f3a30767333f7a2f8b/artifacts
+end_time: 1736103442025
+entry_point_name: ''
+experiment_id: '352579773443798801'
+lifecycle_stage: active
+run_id: 3c72917bfe0848f3a30767333f7a2f8b
+run_name: agreeable-jay-839
+run_uuid: 3c72917bfe0848f3a30767333f7a2f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736103437821
+status: 3
+tags: []
+user_id: hritwij2
