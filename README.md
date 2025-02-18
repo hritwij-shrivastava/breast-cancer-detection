@@ -57,8 +57,14 @@ This project demonstrates how machine learning can assist in detecting breast ca
      source env/bin/activate
      ```
 
-3. Run the scripts:
+3. Install necessary libraries:
    ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the scripts:
+   ```bash
+   pip install -r requirements.txt
    python .\datasets.py
    python .\breast_cancer_detection_with_knn.py
    python .\breast_cancer_detection_with_svm.py
