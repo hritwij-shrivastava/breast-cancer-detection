@@ -25,7 +25,7 @@ This project demonstrates how machine learning can assist in detecting breast ca
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hritwij-shrivastava/breast-cancer-detection.git
    cd breast-cancer-detection
    ```
 
