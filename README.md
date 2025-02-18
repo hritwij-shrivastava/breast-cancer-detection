@@ -90,4 +90,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Contact
 
-For any questions or suggestions, please reach out to [Your Name/Email].
+For any questions or suggestions, please reach out to hritwij@hritwij.com.
